@@ -32,9 +32,10 @@ Recall score:  0.8045112781954887
 f1_score:  0.8806584362139919
 
 Confusion matrix:
-
+<pre>
 [[ 23   3]
  [ 26 107]]
+</pre>
 
 The code is further commented.
 
